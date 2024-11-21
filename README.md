@@ -6,7 +6,6 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quoc-tue-nguyen-013b14258/)
 
 
-<a href="https://github.com/Duke-Analyst/Website-Performance-Analysis-by-SQL">
 <a href="https://github.com/Duke-Analyst/Website-Performance-Analysis-by-SQL" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duke-Analyst&repo=Website-Performance-Analysis-by-SQL&theme=radical" alt="Website Performance Analysis by SQL" />
 </a>
