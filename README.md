@@ -3,7 +3,11 @@
 - I'm particularly interested in pursuing a career in data analysis (DA) or business intelligence (BI). And I'm ready to learn and work in all domains
 ## 📫 How to reach me: 
 
-Linkedin(https://www.linkedin.com/in/quoc-tue-nguyen-013b14258/)
+<a href="https://www.linkedin.com/in/quoc-tue-nguyen-013b14258/" target="_blank" style="text-decoration: none;">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" style="vertical-align: middle;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px; color: #0077b5; font-weight: bold; margin-left: 5px;">LinkedIn</span>
+</a>
+
 
 
 
