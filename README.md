@@ -7,9 +7,9 @@
 
 
 <a href="https://github.com/Duke-Analyst/Website-Performance-Analysis-by-SQL">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
-</a>    
+<a href="https://github.com/Duke-Analyst/Website-Performance-Analysis-by-SQL" target="_blank" style="text-decoration: none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duke-Analyst&repo=Website-Performance-Analysis-by-SQL&theme=radical" alt="Website Performance Analysis by SQL" />
+</a>
 <a href="https://github.com/vietnh1009/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
