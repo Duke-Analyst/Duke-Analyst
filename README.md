@@ -10,10 +10,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duke-Analyst&repo=Website-Performance-Analysis-by-SQL&theme=radical" alt="Website Performance Analysis by SQL" />
 </a>
 
-
 <a href="https://github.com/Duke-Analyst/RFM-Analysis-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=RFM-Analysis-&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=RFM-Analysis-&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/Duke-Analyst/Market-Expansion-Strategies">
@@ -28,7 +27,7 @@
 
 <a href="https://github.com/Duke-Analyst/Customer-Insight-Dashboard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=Customer-Insight-Dashboard&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=Customer-Insight-Dashboard&theme=merko" />
 </a>
 
 <!-- Themes: radical,merko,gruvbox,dark,onedark,cobalt,synthwave,highcontrast,dracula,
