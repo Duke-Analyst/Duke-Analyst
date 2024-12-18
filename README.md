@@ -3,7 +3,7 @@
 - I'm particularly interested in pursuing a career in data analysis (DA) or business intelligence (BI). And I'm ready to learn and work in all domains
 ## 📫 How to reach me: <a href="https://www.linkedin.com/in/quoc-tue-nguyen-013b14258/"><img src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" alt="LinkedIn" style="width: 30px; height: 30px;"></a>
 
-
+## These are my personal projects
 
 
 <a href="https://github.com/Duke-Analyst/Website-Performance-Analysis-by-SQL" target="_blank" style="text-decoration: none;">
