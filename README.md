@@ -26,6 +26,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=Retail-Strategy-Bach-Hoa-Xanh-vs-Winmart&theme=dark" />
 </a>
 
+<a href="https://github.com/Duke-Analyst/Customer-Insight-Dashboard">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duke-Analyst&repo=Customer-Insight-Dashboard&theme=highcontrast" />
+</a>
+
 <!-- Themes: radical,merko,gruvbox,dark,onedark,cobalt,synthwave,highcontrast,dracula,
 
 
